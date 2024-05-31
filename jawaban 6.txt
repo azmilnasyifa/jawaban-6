@@ -1,0 +1,1 @@
+RESTful API adalah api yang mengikuti gaya arsitektur REST yang memudahkan komunikasi antara aplikasi dan pengguna
